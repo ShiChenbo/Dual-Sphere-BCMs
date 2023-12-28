@@ -2,7 +2,7 @@
 
 We provide open source code for computing **Characteristic Modes amidst Arbitrary Backgrounds** (BCMs)  of two-sphere systems based on scattering matrices.
 
-The three MATLAB code files below correspond to the examples in the paper, and they can be ==downloaded and run directly==. Note that the author's MATLAB version is R2020b, and if there are problems running them, the user may want to check the MATLAB version for consistency: 
+The three MATLAB code files below correspond to the examples in the paper, and they can be \textcolor{red}{downloaded and run directly}. Note that the author's MATLAB version is R2020b, and if there are problems running them, the user may want to check the MATLAB version for consistency: 
 
 1.  Case1_PEC.m; Calculate the dual PEC sphere system with sphere 1 of radius $a$ and separation distance $d=3a$.
 2. Case2_Delectric.m; Calculate the dual dielectric sphere system with sphere 1 of radius $a$ and sphere 2 of radius $0.75a$. The separation distance $d=2.25a$. The relative permittivities of the two spheres are $\epsilon_1=2,\epsilon_2=8$, resp. Note that sphere 1 is set as background structure.
